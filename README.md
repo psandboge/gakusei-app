@@ -1,1 +1,1 @@
-# gakusei-app
+Gakusei-app
